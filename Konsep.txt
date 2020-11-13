@@ -1,4 +1,0 @@
-Konsep Tugas Akhir
-
-konsep dari kelompok kami adalah membuat web yang bertemakan makanan jadi didalam web tersebut terdapat banyak makanan khas indonesia
-didalamnya juga terdapat harga harga dari setiap makanan tersebut dan ada foto dari makanan tersebut juga 
